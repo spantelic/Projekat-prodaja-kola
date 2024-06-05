@@ -1,0 +1,6 @@
+Automobil VW Polo
+Motor: dizel, zapremine 1,4 m3.
+Snaga motora: 55kw, 75ks.
+Godiste: 2005.
+Predjena kilometraza: 250 000 km.
+Cena: 1800 eura.
